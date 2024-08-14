@@ -3,6 +3,7 @@
 const GeoLayout bob_area_1_geo[] = {
 	GEO_NODE_START(),
 	GEO_OPEN_NODE(),
+		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, -100, -2273, -1484, bob_dl_cheeky_mesh_layer_5),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_ALPHA, -249, 313, 140, bob_dl_ineedtolive_mesh_layer_4),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_OPAQUE, 9, 97, 11, bob_dl_Island1_mesh_layer_1),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_ALPHA, 530, 355, 276, 0, 0, -87, bob_dl_Plane_mesh_layer_4),
