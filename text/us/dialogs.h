@@ -1707,21 +1707,13 @@ Left: Black Hole\n\
 Arrow: You are here"))
 
 DEFINE_DIALOG(DIALOG_141, 1, 5, 150, 200, _("\
-You've recovered one of\n\
-the stolen Power Stars!\n\
-Now you can open some of\n\
-the sealed doors in the\n\
-castle.\n\
-Try the Princess's room\n\
-on the second floor and\n\
-the room with the\n\
-painting of Whomp's\n\
-Fortress on Floor 1.\n\
-Bowser's troops are still\n\
-gaining power, so you\n\
-can't give up. Save us,\n\
-Mario! Keep searching for\n\
-Stars!"))
+You've completed the\n\
+romhack!\n\
+\n\
+Thank you for playing!\n\
+\n\
+---ah5k\n\
+"))
 
 DEFINE_DIALOG(DIALOG_142, 1, 5, 150, 200, _("\
 You've recovered three\n\
